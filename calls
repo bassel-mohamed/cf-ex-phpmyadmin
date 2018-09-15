@@ -1,0 +1,5 @@
+Name varchar(20)
+
+number int(11)
+
+available int(11)
